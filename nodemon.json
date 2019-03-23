@@ -1,0 +1,8 @@
+{
+  "env": {
+    "MONGO_ATLAS_PW": "Z6WT6kJTxVQAq5Ga",
+    "JWT_KEY": "secrert_text_something_longer",
+    "EMAIL_KEY": "this_is_email_secret_key_to_confirmation_link",
+    "DATABASE": "test"
+  }
+}
